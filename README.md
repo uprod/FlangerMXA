@@ -2,6 +2,8 @@
 
 A flanger: a short LFO-swept delay (Lagrange-interpolated) resummed with the dry signal to form a gliding comb filter, with bipolar feedback and selectable wet polarity (negative flanging).
 
+![FlangerMXA — the sheet](Captures/FlangerMXA.png)
+
 Audio plugin (AU / VST3 / Standalone) built with [JUCE](https://juce.com). Part of the [MXA plugin suite](https://mxaudio.mescalina.fr/). macOS 11+ and Windows — Windows builds (VST3 + Standalone) are available in [Releases](https://github.com/uprod/FlangerMXA/releases).
 
 ## Build
